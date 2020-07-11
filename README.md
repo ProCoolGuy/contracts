@@ -107,3 +107,5 @@ module.exports = {
 
 You can let `testrpc-sc` continue to run in the background if you will be running coverage tests repeatedly.Contribution: 2020-07-10 20:00
 
+Contribution: 2020-07-10 20:01
+
